@@ -27,7 +27,7 @@ function generatePassword() {
     var password = "";
 
     // prompt user
-    var passwordLength = prompt(" How long do you want your password? Password shoild be at least 8 characters and no more than 128 characters")
+    var passwordLength = prompt(" How long do you want your password? Password should be at least 8 characters and no more than 128 characters")
 
     // check password length
     if (passwordLength < 8 || passwordLength > 128) {

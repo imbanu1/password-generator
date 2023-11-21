@@ -16,7 +16,7 @@ WHEN asked for character types to include in the password
 THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or 
 special characters
 ![lowerc](https://github.com/imbanu1/password-generator/blob/main/assets/images/lowercase.png?raw=true)
-![upperc](https://github.com/imbanu1/password-generator/blob/main/assets/images/uppercase.png?raw=true)
+![upperc][(https://github.com/imbanu1/password-generator/blob/main/assets/images/uppercase.png?raw=true)]
 ![num](https://github.com/imbanu1/password-generator/blob/main/assets/images/numbers.png?raw=true)
 ![spec](https://github.com/imbanu1/password-generator/blob/main/assets/images/spechar.png?raw=true)
 WHEN prompted for the length of the password

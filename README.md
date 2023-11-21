@@ -13,7 +13,7 @@ WHEN asked for character types to include in the password
 THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or 
 special characters
 https://github.com/imbanu1/password-generator/blob/main/assets/images/lowercase.png
-[/assets/images/lowercase.png](https://github.com/imbanu1/password-generator/blob/main/assets/images/lowercase.png?raw=true)
+![lowerc](https://github.com/imbanu1/password-generator/blob/main/assets/images/lowercase.png?raw=true)
 [/assets/images/uppercase.png](https://github.com/imbanu1/password-generator/blob/main/assets/images/uppercase.png?raw=true)
 [/assets/images/numbers.png](https://github.com/imbanu1/password-generator/blob/main/assets/images/numbers.png?raw=true)
 [/assets/images/spechar.png](https://github.com/imbanu1/password-generator/blob/main/assets/images/spechar.png?raw=true)

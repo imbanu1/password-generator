@@ -1,5 +1,5 @@
 # password-generator
-file:///C:/Users/imban/Desktop/bootcamp-folder/password-generator/index.html
+https://imbanu1.github.io/password-generator/
 https://github.com/imbanu1/password-generator
 
 GIVEN I need a new, secure password
